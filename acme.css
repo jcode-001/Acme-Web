@@ -176,3 +176,12 @@ footer{
     }
     /* .subscribe-input,.subscribe-btn{ width: 50%;} */
 }
+@media only screen and (max-width:600px){
+    .nav-link{
+        flex-direction: column;
+        gap: 20px;
+    }
+    header{
+        text-align: center;
+    }
+}
