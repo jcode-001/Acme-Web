@@ -42,7 +42,7 @@ header{
 /* new section */
 .bg-photo-section{
   min-height:400px;
-  background:url('../img/showcase.jpg') no-repeat;
+  background:url('img/showcase.jpg') no-repeat;
   background-position: center;
   background-size: cover;
   text-align:center;
